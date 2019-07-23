@@ -1,0 +1,64 @@
+{
+    "users": [
+        {
+            "id": 0,
+            "username": "Tom24",
+            "firstName": "Tom",
+            "sureName": "Topolowski",
+            "mail": "mail@mail.com",
+            "city": "Warszawa",
+            "password": "$2b$10$.oCcZZOpfINihqxeCiFSOORYbWvC2sPvv1LJrMuq4wcuxQyyYnRiS",
+            "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjAsImlhdCI6MTU1OTY3OTA4OH0.ps8EvVA5fQywV1OzTVLeN6_3lrAK6iIAcYVV4NpDAg8"
+        },
+        {
+            "id": 1,
+            "username": "Tom26",
+            "firstName": "Tom",
+            "sureName": "Topolowsa",
+            "mail": "mail@mail.com",
+            "city": "Kołobrzeg",
+            "password": "$2b$10$/pNx1OGwqzx5Sewm83ivhea4RJvSNsdRz6bwi4eef/1/eYQq7lVRe",
+            "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjQsImlhdCI6MTU1OTY3OTYzNX0.i1WZ9iN8Z4q5Ds3pSXEWi49ORGgjBt3L-gMZB5U0aEk"
+        },
+        {
+            "id": 2,
+            "username": "Tom26",
+            "firstName": "Tom",
+            "sureName": "Topolowsa",
+            "mail": "mail@mail.com",
+            "city": "Kołobrzeg",
+            "password": "$2b$10$D4SLFcBnkr7ilXLW7qP7lOIAGkS3oXUBlKFfaJqWrcoHzTSTXxBxC",
+            "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjUsImlhdCI6MTU1OTY4MDAyNH0.Elr7NF3sf9B9yjpOfoY-sUZQ-gZlM0WokxqnPTwkrLI"
+        },
+        {
+            "id": 3,
+            "username": "Tom32",
+            "firstName": "Tom",
+            "sureName": "Topolowsa",
+            "mail": "mail@mail.com",
+            "city": "Kołobrzeg",
+            "password": "$2b$10$A500xioCb19pnzqgVEf9feAmvZhSl3N/W5X6lWiCCooWS8OZctJvS",
+            "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjYsImlhdCI6MTU1OTY4MTIzOH0.LCln0IxMwNKAV8_Nu787abAi7pzjXBpzgq09BZZspRE"
+        },
+        {
+            "id": 4,
+            "username": "Tom32",
+            "firstName": "Tom",
+            "sureName": "Topolowsa",
+            "mail": "mail@mail.com",
+            "city": "Kołobrzeg",
+            "password": "$2b$10$dOKJ2ptEgn71dYvzQpUKruhefZWV4S0Zku0GeYi9rCYQRZuCOL8Y6",
+            "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjcsImlhdCI6MTU1OTY4MjAwN30.UpTFIUCt06A0vHJgasDH1GeQGN24zgYdjfNRJTupNmM"
+        },
+        {
+            "id": 5,
+            "firstName": "Tom",
+            "username": "Tom32",
+            "sureName": "Topolowsa",
+            "mail": "mail@mail.com",
+            "city": "Kołobrzeg",
+            "password": "$2b$10$VmxMyDsyk5ABrQWRGx7.lOxDQz7Ma.R28G4PoDlB8gf/mCfRwfPn6",
+            "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjUsImlhdCI6MTU1OTczMTAwMn0.KXp7-avKzMaNJvdWTqggQEtuU-2Gh8R6CGDPzipvhW4"
+        }
+    ]
+}
